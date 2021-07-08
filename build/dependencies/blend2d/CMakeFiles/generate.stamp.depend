@@ -1,7 +1,0 @@
-# CMake generation dependency list for this directory.
-C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
-C:/Program Files/CMake/share/cmake-3.15/Modules/CheckCXXCompilerFlag.cmake
-C:/Program Files/CMake/share/cmake-3.15/Modules/CheckCXXSourceCompiles.cmake
-C:/Program Files/CMake/share/cmake-3.15/Modules/GNUInstallDirs.cmake
-E:/Projects/ioplot/dependencies/asmjit/CMakeLists.txt
-E:/Projects/ioplot/dependencies/blend2d/CMakeLists.txt
